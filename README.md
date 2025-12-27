@@ -1,2 +1,6 @@
 # SQL-data-manipulation
-Table created for friends information, focuses on creating and manipulating tables.
+This SQL project focuses on designing, creating, and modifying a relational database table to manage data efficiently. The project begins by defining a new table called Employees, which stores essential information such as employee ID, first and last name, job title, hire date, and salary. Using SQL CREATE TABLE statements, the table structure is built with appropriate data types and constraints, including a primary key to ensure each employee record is uniquely identified.
+
+After the table is created, the project demonstrates how to update and maintain the data through table edits and structural modifications. This includes inserting new employee records, updating existing information, and deleting outdated entries using INSERT, UPDATE, and DELETE commands. Additionally, the project showcases how to alter the table design by adding new columns, modifying data types, and removing fields when business requirements change, using the ALTER TABLE command.
+
+Overall, this project highlights foundational SQL skills in database design, table creation, and data/structure manipulation, showing how SQL can be used to build and evolve database systems to meet ongoing organizational needs.
